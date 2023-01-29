@@ -1,0 +1,3 @@
+# Qiskit
+## Author: Rohan Singh and Rachel Tjarksen
+This directory contains source code for different Quantum Computing Projects that use IBM's Qiskit Library for Python. I'm currently writing an intro to Quantum Computing paper on ArXiv that you can use as a pre-requisite to understand the basics of Quantum Computing, such as the linear algebra, qubits and the gates, so that you can better understand what's going on.
