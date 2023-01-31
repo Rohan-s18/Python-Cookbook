@@ -10,6 +10,8 @@ This repository is structured into directories that specialize in the different 
 The directories for the libraries are:  
   - **Qiskit:** This directory contains source code for Python's Qiskit Library for Quantum Computing.  
   - **OpenCV:** This directory contains source code for Python's OpenCV library for Computer Vision.  
+  - **Plotly:** This directory contains source code for Python's Plotly express library.  
+  - **Scikit-Learn:** This directory contains source code for Pyhton's Scikit-learn Machine Learning Library.  
   
 ## Contact
 You can contact us at:  
