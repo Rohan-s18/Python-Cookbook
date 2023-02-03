@@ -6,3 +6,4 @@ This directory contains source code for Computer Vision in Python using the Open
 There are different projects within this directory, which are:  
   - **Introduction:** Intro project to understand how OpenCV works.  
   - **Image Processing:** Intermediate OpenCV project used for simple image arithmetic and stuff.  
+  - **Video Processing:** OpenCV Project used for video processing and scence detection.  
