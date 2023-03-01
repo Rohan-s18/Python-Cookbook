@@ -1,6 +1,6 @@
 """
 Author: Rohan Singh
-1/29/23
+12/27/22
 This Python module contains source code simple Quantum Circuits
 """
 
@@ -26,5 +26,7 @@ counts = result.get_counts()
 #  Printing the counts
 print(counts)
 plot_histogram(counts)
+
+
 
 
