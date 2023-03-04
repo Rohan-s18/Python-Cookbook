@@ -11,7 +11,8 @@ The directories for the libraries are:
   - **Qiskit:** This directory contains source code for Python's Qiskit Library for Quantum Computing.  
   - **OpenCV:** This directory contains source code for Python's OpenCV library for Computer Vision.  
   - **Plotly:** This directory contains source code for Python's Plotly express library.  
-  - **Scikit-Learn:** This directory contains source code for Pyhton's Scikit-learn Machine Learning Library.  
+  - **Scikit-Learn:** This directory contains source code for Pyhton's Scikit-learn Machine Learning Library.   
+  - **Numpy:** This directory contains code for the linear algebra related stuff using Numpy.  
   
 ## Contact
 You can contact us at:  
