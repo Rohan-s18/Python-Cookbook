@@ -1,4 +1,4 @@
-# Introduction
+# Single Qubits
 ## Author: Rohan Singh
 This directory contains introductory source code for Quantum Computing using Python's Qiskit library.
 
