@@ -13,6 +13,7 @@ The directories for the libraries are:
   - **Plotly:** This directory contains source code for Python's Plotly express library.  
   - **Scikit-Learn:** This directory contains source code for Pyhton's Scikit-learn Machine Learning Library.   
   - **Numpy:** This directory contains code for the linear algebra related stuff using Numpy.  
+  - **PubChemPy:** This directory contains code for basic PubChemPy related stuff in Python (for Bio/Cheminformatics).  
   
 ## Contact
 You can contact us at:  
