@@ -12,7 +12,7 @@ hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
 # Load the video or image
-cap = cv2.VideoCapture("video.mp4")
+cap = cv2.VideoCapture(0)
 
 # Loop over each frame
 while True:
