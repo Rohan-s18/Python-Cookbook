@@ -1,6 +1,6 @@
 # Python Cookbook
 ## Authors: Rachel and Rohan
-Python Repository made by Rohan Singh and Rachel Tjarksen. In this repository, we will be making projects using various different Python libraries, like Scikit-learn, Plotly, Qiskit, OpenCV, Tensorflow, Keras, Matplotlib, Django, Numpy, Dash etcetera.  
+Python Repository made by Rohan and Rachel. In this repository, we will be making projects using various different Python libraries, like Scikit-learn, Plotly, Qiskit, OpenCV, Tensorflow, Keras, Matplotlib, Django, Numpy, Dash etcetera.  
 
 Through the projects of this repository, you will be able to learn how to use some of the cool libraries that make Python such a cool language.   
 
